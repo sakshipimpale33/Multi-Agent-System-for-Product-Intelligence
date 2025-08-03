@@ -6,12 +6,12 @@ This project implements an **Autonomous AI Agent System** to collect, understand
 
 ## ✅ Core Features
 
--🔍 **Real-time Patent Data Collection** using [SerpAPI](https://serpapi.com/)
--🧬 **Dense Embedding Generation Locally** using [Ollama](https://ollama.com/) and custom Docker containers
--🧠 **DeepSeek LLM Integration via Ollama** for local inference and natural language understanding
--🔑 **Keyword, Semantic, and Hybrid Retrieval** with [OpenSearch Vector DB](https://opensearch.org/)
--🤖 **Agentic Planning & Reasoning** using [CrewAI](https://github.com/joaomdmoura/crewAI), [LangChain](https://www.langchain.com/), and DeepSeek
--📦 **Chunked RAG Pipeline** to ensure efficient and relevant contextual information retrieval
+- 🔍 **Real-time Patent Data Collection** using [SerpAPI](https://serpapi.com/)
+- 🧬 **Dense Embedding Generation Locally** using [Ollama](https://ollama.com/) and custom Docker containers
+- 🧠 **DeepSeek LLM Integration via Ollama** for local inference and natural language understanding
+- 🔑 **Keyword, Semantic, and Hybrid Retrieval** with [OpenSearch Vector DB](https://opensearch.org/)
+- 🤖 **Agentic Planning & Reasoning** using [CrewAI](https://github.com/joaomdmoura/crewAI), [LangChain](https://www.langchain.com/), and DeepSeek
+- 📦 **Chunked RAG Pipeline** to ensure efficient and relevant contextual information retrieval
 
 ---
 
@@ -55,6 +55,7 @@ This project implements an **Autonomous AI Agent System** to collect, understand
 | Planning & Reasoning | Multi-agent architecture |
 
 ---
+
 
 
 
